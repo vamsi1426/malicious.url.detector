@@ -26,5 +26,5 @@ pyOpenSSL==23.2.0
 cryptography==41.0.3
 
 # Optional: for advanced features
-beautifulsoup4==4.12.2
-lxml==4.9.3 
+#beautifulsoup4==4.12.2
+#lxml==4.9.3 
