@@ -1,0 +1,2 @@
+Feature,Importance
+Note: Feature importance is not directly available for non-linear SVM kernels.
